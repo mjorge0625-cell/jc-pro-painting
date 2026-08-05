@@ -38,3 +38,17 @@ yarn-error.log*
 /.wrangler/
 /outputs/
 /work/
+
+# Local source images and retired starter assets
+/JCLogo.png
+/Screenshot*.png
+/examples/
+/public/craft.jpg
+/public/exterior.jpg
+/public/interior.jpg
+/public/jc-pro-logo.png
+/public/junior-cocio.png
+/public/map*.png
+/public/file.svg
+/public/globe.svg
+/public/window.svg
