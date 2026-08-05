@@ -81,8 +81,8 @@ h1 em, h2 em { color: var(--rust); font-weight: 500; }
 h2 { font-size: clamp(56px, 7.2vw, 110px); }
 .story-frame { height: min(68vw, 760px); min-height: 510px; position: relative; overflow: hidden; background: var(--cream); }
 .story-image { position: absolute; inset: 0; background: url("/interior-web.jpg") center 42%/cover; filter: saturate(.55) contrast(.98); transform: scale(1.04); }
-.paint-reveal { position: absolute; inset: 0 0 0 52%; display: grid; place-items: center; background: rgba(238,184,75,.87); mix-blend-mode: multiply; clip-path: polygon(8% 0,100% 0,100% 100%,0 100%); animation: paint-wipe linear both; animation-timeline: view(); animation-range: entry 0% cover 65%; }
-.paint-reveal span { color: white; font-family: var(--font-serif), serif; font-size: clamp(44px, 8vw, 110px); font-style: italic; transform: rotate(-8deg); mix-blend-mode: normal; }
+.paint-reveal { position: absolute; inset: 0 0 0 52%; display: grid; place-items: center; padding-left: 9%; background: rgba(238,184,75,.87); mix-blend-mode: multiply; clip-path: polygon(8% 0,100% 0,100% 100%,0 100%); animation: paint-wipe linear both; animation-timeline: view(); animation-range: entry 0% cover 65%; }
+.paint-reveal span { color: white; font-family: var(--font-serif), serif; font-size: clamp(36px, 6vw, 84px); font-style: italic; line-height: .9; text-align: center; white-space: nowrap; transform: rotate(-4deg); mix-blend-mode: normal; }
 .frame-caption { position: absolute; left: 28px; bottom: 24px; max-width: 210px; margin: 0; padding: 12px; background: var(--paper); font-size: 12px; font-weight: 700; line-height: 1.5; }
 .process-grid { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 58px; border-top: 1px solid var(--line); }
 .process-grid article { padding: 30px 9% 0 0; }
@@ -217,7 +217,8 @@ footer > div { display: flex; gap: 25px; font-size: 12px; font-weight: 700; }
   .section-shell { padding-block: 88px; }
   h2 { font-size: 51px; }
   .story-frame { min-height: 560px; }
-  .paint-reveal { left: 35%; }
+  .paint-reveal { left: 35%; padding-left: 12%; }
+  .paint-reveal span { font-size: clamp(32px, 10vw, 48px); white-space: normal; }
   .process-grid, .review-values { grid-template-columns: 1fr; }
   .process-grid article, .review-values article { padding-bottom: 26px; border-bottom: 1px solid var(--line); }
   .service-card { grid-template-columns: 30px 1fr 20px; gap: 16px; }

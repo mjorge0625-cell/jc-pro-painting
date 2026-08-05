@@ -34,4 +34,7 @@ test("renders bilingual contact and quote paths", async () => {
   assert.match(spanish, /Color renovado/);
   assert.match(spanish, /Pintura de interiores/);
   assert.match(spanish, /Presupuesto gratis/);
+  assert.match(spanish, /Como nuevo/);
+  assert.match(spanish, /Llámenos o mándenos mensaje/);
+  assert.match(spanish, /espacio luzca como/);
 });
