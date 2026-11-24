@@ -52,3 +52,7 @@ yarn-error.log*
 /public/file.svg
 /public/globe.svg
 /public/window.svg
+
+# graphify
+/.venv/
+/graphify-out/cache/

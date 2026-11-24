@@ -1,0 +1,342 @@
+{
+  "communities": {
+    "0": [
+      "drizzle_config",
+      "eslint_config",
+      "eslint_config_eslintconfig",
+      "package",
+      "package_engines",
+      "package_engines_node",
+      "package_name",
+      "package_private",
+      "package_type",
+      "package_version",
+      "ref_cloudflare_vite_plugin",
+      "ref_drizzle_kit",
+      "ref_eslint",
+      "ref_eslint_js",
+      "ref_eslint_plugin_jsx_a11y",
+      "ref_eslint_plugin_react",
+      "ref_eslint_plugin_react_hooks",
+      "ref_globals",
+      "ref_next_eslint_plugin_next",
+      "ref_react",
+      "ref_react_dom",
+      "ref_react_server_dom_webpack",
+      "ref_tailwindcss",
+      "ref_tailwindcss_postcss",
+      "ref_types_node",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_typescript",
+      "ref_typescript_eslint",
+      "ref_vitejs_plugin_react",
+      "ref_vitejs_plugin_rsc",
+      "ref_wrangler"
+    ],
+    "1": [
+      "app_en_page",
+      "app_en_page_englishhome",
+      "app_en_page_metadata",
+      "app_es_es_page",
+      "app_es_es_page_metadata",
+      "app_es_es_page_spanishhome",
+      "app_home",
+      "app_home_brand",
+      "app_home_copy",
+      "app_home_homepage",
+      "app_home_photo",
+      "app_robots",
+      "app_robots_robots",
+      "app_seo",
+      "app_seo_areas",
+      "app_seo_businessdata",
+      "app_seo_businessname",
+      "app_seo_email",
+      "app_seo_head",
+      "app_seo_lang",
+      "app_seo_pagemetadata",
+      "app_seo_paths",
+      "app_seo_phonedisplay",
+      "app_seo_phonehref",
+      "app_seo_sitemapentries",
+      "app_seo_siteurl",
+      "app_sitemap",
+      "app_sitemap_sitemap",
+      "next_config",
+      "next_config_nextconfig",
+      "ref_next"
+    ],
+    "2": [
+      "package_devdependencies",
+      "package_devdependencies_cloudflare_vite_plugin",
+      "package_devdependencies_drizzle_kit",
+      "package_devdependencies_eslint",
+      "package_devdependencies_eslint_js",
+      "package_devdependencies_eslint_plugin_jsx_a11y",
+      "package_devdependencies_eslint_plugin_react",
+      "package_devdependencies_eslint_plugin_react_hooks",
+      "package_devdependencies_globals",
+      "package_devdependencies_next_eslint_plugin_next",
+      "package_devdependencies_react_server_dom_webpack",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tailwindcss_postcss",
+      "package_devdependencies_types_node",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_typescript",
+      "package_devdependencies_typescript_eslint",
+      "package_devdependencies_vinext",
+      "package_devdependencies_vite",
+      "package_devdependencies_vitejs_plugin_react",
+      "package_devdependencies_vitejs_plugin_rsc",
+      "package_devdependencies_wrangler"
+    ],
+    "3": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowjs",
+      "tsconfig_compileroptions_esmoduleinterop",
+      "tsconfig_compileroptions_incremental",
+      "tsconfig_compileroptions_isolatedmodules",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_paths",
+      "tsconfig_compileroptions_plugins",
+      "tsconfig_compileroptions_resolvejsonmodule",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_strict",
+      "tsconfig_compileroptions_target",
+      "tsconfig_exclude",
+      "tsconfig_include"
+    ],
+    "4": [
+      "build_sites_vite_plugin",
+      "build_sites_vite_plugin_sites",
+      "openai_hosting",
+      "ref_vinext",
+      "ref_vite",
+      "vite_config",
+      "vite_config_localbindingconfig",
+      "vite_plugin",
+      "worker_index",
+      "worker_index_env",
+      "worker_index_executioncontext",
+      "worker_index_executioncontext_passthroughonexception",
+      "worker_index_executioncontext_waituntil",
+      "worker_index_input",
+      "worker_index_worker"
+    ],
+    "5": [
+      "app_chatgpt_auth",
+      "app_chatgpt_auth_chatgptsigninpath",
+      "app_chatgpt_auth_chatgptsignoutpath",
+      "app_chatgpt_auth_chatgptuser",
+      "app_chatgpt_auth_getchatgptuser",
+      "app_chatgpt_auth_isreservedauthpath",
+      "app_chatgpt_auth_requirechatgptuser",
+      "app_chatgpt_auth_safedecodeuricomponent",
+      "app_chatgpt_auth_saferelativereturnpath"
+    ],
+    "6": [
+      "app_en_layout",
+      "app_en_layout_englishlayout",
+      "app_es_layout",
+      "app_es_layout_spanishlayout",
+      "app_globals",
+      "app_root_shell",
+      "app_root_shell_rootshell",
+      "app_root_shell_sans",
+      "app_root_shell_serif"
+    ],
+    "7": [
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_build_vercel",
+      "package_scripts_db_generate",
+      "package_scripts_dev",
+      "package_scripts_graph",
+      "package_scripts_lint",
+      "package_scripts_start",
+      "package_scripts_test"
+    ],
+    "8": [
+      "ref_node_assert",
+      "ref_node_test",
+      "tests_rendered_html_test",
+      "tests_rendered_html_test_decode",
+      "tests_rendered_html_test_html",
+      "tests_rendered_html_test_jsonld",
+      "tests_rendered_html_test_meta",
+      "tests_rendered_html_test_render",
+      "tests_rendered_html_test_title"
+    ],
+    "9": [
+      "db_index",
+      "db_index_getdb",
+      "db_schema",
+      "ref_cloudflare_workers",
+      "ref_drizzle_orm"
+    ],
+    "10": [
+      "package_dependencies",
+      "package_dependencies_drizzle_orm",
+      "package_dependencies_next",
+      "package_dependencies_react",
+      "package_dependencies_react_dom"
+    ],
+    "11": [
+      "ref_tsconfig_json",
+      "tsconfig_vercel",
+      "tsconfig_vercel_exclude",
+      "tsconfig_vercel_extends",
+      "tsconfig_vercel_include"
+    ],
+    "12": [
+      "next_env_d",
+      "next_env_d_rationale_5",
+      "next_types_routes_d"
+    ],
+    "13": [
+      "postcss_config",
+      "postcss_config_config"
+    ],
+    "14": [
+      "vercel",
+      "vercel_buildcommand"
+    ]
+  },
+  "cohesion": {
+    "0": 0.07661290322580645,
+    "1": 0.11397849462365592,
+    "2": 0.08695652173913043,
+    "3": 0.10526315789473684,
+    "4": 0.13333333333333333,
+    "5": 0.3888888888888889,
+    "6": 0.3333333333333333,
+    "7": 0.2222222222222222,
+    "8": 0.3055555555555556,
+    "9": 0.4,
+    "10": 0.4,
+    "11": 0.4,
+    "12": 0.6666666666666666,
+    "13": 1.0,
+    "14": 1.0
+  },
+  "gods": [
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 16
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "degree": 9
+    },
+    {
+      "id": "app_home_homepage",
+      "label": "HomePage()",
+      "degree": 8
+    },
+    {
+      "id": "ref_next",
+      "label": "next",
+      "degree": 7
+    },
+    {
+      "id": "app_root_shell_rootshell",
+      "label": "RootShell()",
+      "degree": 5
+    },
+    {
+      "id": "app_chatgpt_auth_saferelativereturnpath",
+      "label": "safeRelativeReturnPath()",
+      "degree": 4
+    },
+    {
+      "id": "app_chatgpt_auth_getchatgptuser",
+      "label": "getChatGPTUser()",
+      "degree": 3
+    },
+    {
+      "id": "app_chatgpt_auth_requirechatgptuser",
+      "label": "requireChatGPTUser()",
+      "degree": 3
+    },
+    {
+      "id": "app_chatgpt_auth_chatgptsigninpath",
+      "label": "chatGPTSignInPath()",
+      "degree": 3
+    },
+    {
+      "id": "app_home_photo",
+      "label": "Photo()",
+      "degree": 3
+    }
+  ],
+  "surprises": [
+    {
+      "source": "EnglishLayout()",
+      "target": "RootShell()",
+      "source_files": [
+        "app/(en)/layout.tsx",
+        "app/root-shell.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `EnglishLayout()` unexpectedly reaches hub `RootShell()`"
+    },
+    {
+      "source": "EnglishHome()",
+      "target": "HomePage()",
+      "source_files": [
+        "app/(en)/page.tsx",
+        "app/home.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `EnglishHome()` unexpectedly reaches hub `HomePage()`"
+    },
+    {
+      "source": "SpanishHome()",
+      "target": "HomePage()",
+      "source_files": [
+        "app/(es)/es/page.tsx",
+        "app/home.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `SpanishHome()` unexpectedly reaches hub `HomePage()`"
+    },
+    {
+      "source": "SpanishLayout()",
+      "target": "RootShell()",
+      "source_files": [
+        "app/(es)/layout.tsx",
+        "app/root-shell.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "peripheral node `SpanishLayout()` unexpectedly reaches hub `RootShell()`"
+    },
+    {
+      "source": "HomePage()",
+      "target": "businessData()",
+      "source_files": [
+        "app/home.tsx",
+        "app/seo.ts"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "cross-file semantic connection"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
